@@ -1,4 +1,4 @@
-# Jogo da Velha em Python
+# Jogo da Velha
 
 Este é um jogo da velha implementado em Python utilizando a biblioteca `tkinter` para criar a interface gráfica. O jogo permite jogar contra o computador em três níveis de dificuldade: fácil, médio e difícil.
 
@@ -8,6 +8,7 @@ Este é um jogo da velha implementado em Python utilizando a biblioteca `tkinter
 - Possibilidade de escolher a dificuldade do jogo: fácil, médio ou difícil.
 - Jogada aleatória do computador no nível fácil.
 - Estratégias mais avançadas para o computador nos níveis médio e difícil.
+- Estratégia de busca utilizada foi o MiniMax.
 - Verificação automática de vitória ou empate.
 - Reinício do jogo após a vitória, empate ou quando solicitado pelo jogador.
 
@@ -30,5 +31,8 @@ Este é um jogo da velha implementado em Python utilizando a biblioteca `tkinter
 Este projeto está licenciado sob a licença [MIT](https://opensource.org/licenses/MIT). Sinta-se à vontade para utilizá-lo de acordo com os termos da licença.
 
 ## Autores
-- Antonio Marques Soares de Souza
-- Gabriel de Souza Fialho
+- Aluno: Antonio Marques Soares de Souza
+- Aluno: Gabriel de Souza Fialho
+
+## Matéria: Inteligência Artificial
+- Professor: Frederico Santos de Oliveira
