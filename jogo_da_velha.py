@@ -1,5 +1,6 @@
 #Trabalho de IA
-#Alunos: Antonio Marques e Gabriel Fialho
+#Aluno: Antonio Marques Soares de Souza, RGA: 202021901003
+#Aluno: Gabriel de Souza Fialho, RGA:202021901019
 #Jogo da Velha - Com 3 níveis de dificuldade
 
 import tkinter as tk
@@ -234,3 +235,4 @@ for row in range(3):
 # Execução da janela principal
 choose_difficulty()
 window.mainloop()
+
